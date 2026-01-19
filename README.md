@@ -40,7 +40,7 @@ This lab helps build foundational AWS infrastructure skills  used in real-world 
 1.  Select RDP in the connection options
 2.  Download remote desktop file
 3.  Get password using key pair
-4.  Launch download RDP and connect using password
+4.  Launch downloaded RDP and connect using password
 ###
 -
 <img width="911" height="272" alt="2" src="https://github.com/user-attachments/assets/92fd9c19-91bd-49be-a0fd-3b91c8ea28ce" />
