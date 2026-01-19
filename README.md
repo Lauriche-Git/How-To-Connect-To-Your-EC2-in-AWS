@@ -42,10 +42,15 @@ This lab helps build foundational AWS infrastructure skills  used in real-world 
 3.  Get password using key pair
 4.  Launch download RDP and connect using password
 <img width="911" height="272" alt="2" src="https://github.com/user-attachments/assets/92fd9c19-91bd-49be-a0fd-3b91c8ea28ce" />
+
 ###
+-
 <img width="659" height="281" alt="3" src="https://github.com/user-attachments/assets/fff988d4-a583-4efa-b986-16547597d84b" />
+
 ###
+-
 <img width="938" height="512" alt="4" src="https://github.com/user-attachments/assets/a7febb2e-426e-4aa8-8719-e5cbd436cdac" />
+
 ###
 
 
